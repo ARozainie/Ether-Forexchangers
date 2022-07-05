@@ -3,7 +3,7 @@
 name: Ether Forexchangers
 
 # Controls when the workflow will run
-on:Ether Forexchangers
+on:Ethereum ETH
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:On
     branches: [ "main" ]
